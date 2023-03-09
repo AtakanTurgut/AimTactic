@@ -1,0 +1,11 @@
+C:\Users\Excalibur\Desktop\AimTactic\AimTactic\AimTactic\bin\Debug\AimTactic.exe.config
+C:\Users\Excalibur\Desktop\AimTactic\AimTactic\AimTactic\bin\Debug\AimTactic.exe
+C:\Users\Excalibur\Desktop\AimTactic\AimTactic\AimTactic\bin\Debug\AimTactic.pdb
+C:\Users\Excalibur\Desktop\AimTactic\AimTactic\AimTactic\obj\Debug\AimTactic.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\AimTactic\AimTactic\AimTactic\obj\Debug\AimTactic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur\Desktop\AimTactic\AimTactic\AimTactic\obj\Debug\AimTactic.Form1.resources
+C:\Users\Excalibur\Desktop\AimTactic\AimTactic\AimTactic\obj\Debug\AimTactic.Properties.Resources.resources
+C:\Users\Excalibur\Desktop\AimTactic\AimTactic\AimTactic\obj\Debug\AimTactic.csproj.GenerateResource.cache
+C:\Users\Excalibur\Desktop\AimTactic\AimTactic\AimTactic\obj\Debug\AimTactic.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\AimTactic\AimTactic\AimTactic\obj\Debug\AimTactic.exe
+C:\Users\Excalibur\Desktop\AimTactic\AimTactic\AimTactic\obj\Debug\AimTactic.pdb
